@@ -55,7 +55,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek secara lokal:
    ```
 
 5. **Buka di Browser**
-   Buka [http://localhost:5173](http://localhost:5173) di browser Anda secara otomatis.
+   Buka [http://localhost:3000](http://localhost:3000) di browser Anda secara otomatis.
 
 ## 🏗️ Membangun untuk Produksi (Production Build)
 Untuk melakukan build produksi:
