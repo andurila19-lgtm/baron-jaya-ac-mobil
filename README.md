@@ -3,8 +3,7 @@
 Spesialis Pendingin Kendaraan & Perbaikan AC Mobil Magetan. Memberikan layanan profesional untuk kenyamanan berkendara Anda dengan filosofi "Dingin Sampai Tulang".
 
 ## 🚀 Live Demo
-Website Link: [https://github.com/andurila19-lgtm/baron-jaya-ac-mobil](https://github.com/andurila19-lgtm/baron-jaya-ac-mobil)
-*(Segera hadir di hosting publik)*
+Website Link: [https://baronjaya-ac.netlify.app/](https://baronjaya-ac.netlify.app/)
 
 ## 🛠️ Tech Stack
 Proyek ini dibangun menggunakan teknologi modern:
