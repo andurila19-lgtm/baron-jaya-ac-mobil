@@ -1,0 +1,9 @@
+
+{
+  "name": "Baron Jaya AC Mobil - Spesialis AC Mobil Magetan",
+  "description": "Layanan profesional service AC mobil di Magetan. Pengisian freon, perbaikan kompresor, dan cuci evaporator bergaransi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
